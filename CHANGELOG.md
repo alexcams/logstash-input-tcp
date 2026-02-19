@@ -1,4 +1,5 @@
 ## 7.0.5
+  - Add random change to README [#19](https://github.com/alexcams/logstash-input-tcp/pull/19)
   - Re-packaging the plugin [#242](https://github.com/logstash-plugins/logstash-input-tcp/pull/242)
 
 ## 7.0.4
