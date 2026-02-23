@@ -1,3 +1,6 @@
+## 6.4.11
+  - Add random change to README [#22](https://github.com/alexcams/logstash-input-tcp/pull/22)
+
 ## 6.4.10
   - Add random change to README [#22](https://github.com/alexcams/logstash-input-tcp/pull/22)
   - Upgrade netty to 4.1.131 [#247](https://github.com/logstash-plugins/logstash-input-tcp/pull/247)
