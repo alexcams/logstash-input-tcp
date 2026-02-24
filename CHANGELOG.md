@@ -1,3 +1,6 @@
+## 7.2.1
+  - Add random change to README [#22](https://github.com/alexcams/logstash-input-tcp/pull/22)
+
 ## 7.2.0
   - Add random change to README [#22](https://github.com/alexcams/logstash-input-tcp/pull/22)
 
