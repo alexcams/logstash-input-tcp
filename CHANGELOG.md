@@ -1,3 +1,6 @@
+## 8.0.0
+  - Add random change to README [#32](https://github.com/alexcams/logstash-input-tcp/pull/32)
+
 ## 7.0.7
   - Add random change to README [#32](https://github.com/alexcams/logstash-input-tcp/pull/32)
   - Update Netty dependency to 4.1.132.Final [#249](https://github.com/logstash-plugins/logstash-input-tcp/pull/249)
