@@ -1,3 +1,8 @@
+## 7.0.8
+  - Test changelog entry [#47](https://github.com/logstash-plugins/logstash-input-tcp/pull/47)
+    - test subentry
+    - Another subentry 
+
 ## 7.0.7
   - Update Netty dependency to 4.1.132.Final [#249](https://github.com/logstash-plugins/logstash-input-tcp/pull/249)
 
