@@ -1,3 +1,6 @@
+## 7.1.0
+  - Y seccond test that will be used in changelog [#49](https://github.com/alexcams/logstash-input-tcp/pull/49)
+
 ## 7.0.7
   - Update Netty dependency to 4.1.132.Final [#249](https://github.com/logstash-plugins/logstash-input-tcp/pull/249)
 
