@@ -1,3 +1,8 @@
+## 8.0.0
+  - Test entry, readme updated [#51](https://github.com/alexcams/logstash-input-tcp/pull/51)
+    - Optional subentry
+    - Another subentry
+
 ## 7.0.7
   - Update Netty dependency to 4.1.132.Final [#249](https://github.com/logstash-plugins/logstash-input-tcp/pull/249)
 
