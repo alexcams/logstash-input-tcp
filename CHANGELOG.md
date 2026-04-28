@@ -1,3 +1,6 @@
+## 8.1.1
+  - This is a test input [#54](https://github.com/alexcams/logstash-input-tcp/pull/54)
+
 ## 8.1.0
   - This entry will be used [#53](https://github.com/alexcams/logstash-input-tcp/pull/53)
 
