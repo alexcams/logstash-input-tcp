@@ -1,3 +1,6 @@
+## 8.1.0
+  - This entry will be used [#53](https://github.com/alexcams/logstash-input-tcp/pull/53)
+
 ## 8.0.0
   - Test using the PR title as changelog entry. [#52](https://github.com/alexcams/logstash-input-tcp/pull/52)
   - Test entry, readme updated [#51](https://github.com/alexcams/logstash-input-tcp/pull/51)
