@@ -1,3 +1,6 @@
+## 8.1.2
+  - Test after merge [#56](https://github.com/alexcams/logstash-input-tcp/pull/56)
+
 ## 8.1.1
   - This is a test input [#54](https://github.com/alexcams/logstash-input-tcp/pull/54)
 
