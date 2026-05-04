@@ -1,3 +1,6 @@
+## 7.0.8
+  - Changelog entry with manual version bump. [#61](https://github.com/alexcams/logstash-input-tcp/pull/61)
+
 ## 7.0.7
   - Changelog entry without version bump. [#60](https://github.com/alexcams/logstash-input-tcp/pull/60)
   - Changelog entry for generic workflow usage over comment in PR [#59](https://github.com/alexcams/logstash-input-tcp/pull/59)
