@@ -1,4 +1,5 @@
 ## 7.0.7
+  - Changelog entry without version bump. [#60](https://github.com/alexcams/logstash-input-tcp/pull/60)
   - Changelog entry for generic workflow usage over comment in PR [#59](https://github.com/alexcams/logstash-input-tcp/pull/59)
   - Update Netty dependency to 4.1.132.Final [#249](https://github.com/logstash-plugins/logstash-input-tcp/pull/249)
 
