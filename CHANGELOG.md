@@ -1,3 +1,6 @@
+## 7.0.9
+  - Test updating via workflow dispatch trigger [#62](https://github.com/alexcams/logstash-input-tcp/pull/62)
+
 ## 7.0.8
   - Changelog entry with manual version bump. [#61](https://github.com/alexcams/logstash-input-tcp/pull/61)
 
